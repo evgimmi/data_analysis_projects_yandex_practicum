@@ -12,9 +12,15 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/evgimmi/data_analysis_projects_yandex_practicum/tree/telecom">Telecom</a></td>
+    <td><a href="https://github.com/evgimmi/data_analysis_projects_yandex_practicum/tree/main/telecom_project">Telecom</a></td>
     <td>Finding clients who overpay for their current plans</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, hypothesis testing,numpy</td>
+  </tr>
+  </tr>
+        <tr>
+    <td><a href="https://github.com/evgimmi/data_analysis_projects_yandex_practicum/tree/main/ml_project">Telecom</a></td>
+    <td>Learn to predict the probability of churn (for the upcoming month) for each customer</td>
+    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, hypothesis testing,numpy,Machine Learning,SKlearn</td>
   </tr>
     
 </table>
