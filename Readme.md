@@ -18,7 +18,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
   </tr>
   </tr>
         <tr>
-    <td><a href="https://github.com/evgimmi/data_analysis_projects_yandex_practicum/tree/main/ml_project">Telecom</a></td>
+    <td><a href="https://github.com/evgimmi/data_analysis_projects_yandex_practicum/tree/main/ml_project">Model Fitness</a></td>
     <td>Learn to predict the probability of churn (for the upcoming month) for each customer</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, hypothesis testing,numpy,Machine Learning,SKlearn</td>
   </tr>
