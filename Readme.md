@@ -2,7 +2,7 @@
 <center><h1>Yandex.Praktikum Data Analysis Projects</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://akylson.com/wp-content/uploads/2020/10/69689792_116148766429470_3425023190613622784_o.png"></a><br><br>
 <p align=center>
-Repository containing portfolio of data analysis projects completed by me during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
+Repository containing portfolio of data analysis projects completed by me during the training courses at <a href="https://practicum.yandex.com">Yandex.Practicum</a><br>
 Presented in the form of iPython Notebooks and readme markdown files. <br>
 
 <table width=100% valign=top >
