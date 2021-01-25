@@ -15,21 +15,21 @@ Find clients who:
 
 All prices are given in generic monetary units.
 
-`Basic price of plan A` — 5000
-`Basic price of plan B` — 2000 
-`Basic price of plan C` — 1000
-`Incoming calls for all plans` — free
+- `Basic price of plan A` — 5000
+- `Basic price of plan B` — 2000 
+- `Basic price of plan C` — 1000
+- `Incoming calls for all plans` — free
 
-`Internal calls for all plans` — a limit of 2000 free minutes per month, beyond which:
+ `Internal calls for all plans` — a limit of 2000 free minutes per month, beyond which:
 
-`Plan A` — 0.1 units/minute
-`Plan B` — 0.15 units/minute
-`Plan C` — 0.3 units/minute
+- `Plan A` — 0.1 units/minute
+- `Plan B` — 0.15 units/minute
+- `Plan C` — 0.3 units/minute
 
 Outgoing (not internal) calls:
-****`Plan A` — 0.4 units/minute
-`Plan B` — 0.5 units/minute
-`Plan C` — 0.7 units/minute
+- `Plan A` — 0.4 units/minute
+- `Plan B` — 0.5 units/minute
+- `Plan C` — 0.7 units/minute
 
 The client also pays 100 units for each operator (irrespectiv of plan).
 
